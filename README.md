@@ -1,4 +1,4 @@
--# Welcome to Ranjini2005hgd Repository!
+
 
 Hello! I'm Ranjini (or Ranjini2005hgd), and this is my personal repository. Here, you'll find various projects, ideas, and possibly some random musings. Let me introduce myself:
 
@@ -17,5 +17,4 @@ Here are some of the projects you'll find in this repository:
 ## Contributions
 
 I'm open to collaboration and contributions! If you're interested in contributing to any of my projects or have ideas for collaboration.
-
 Let's connect and create something awesome together!
