@@ -1,6 +1,6 @@
 
 
-Hello! I'm Ranjini (or Ranjini2005hgd), and this is my personal repository. Here, you'll find various projects, ideas, and possibly some random musings. Let me introduce myself:
+Hello! I'm Ranjini , and this is my personal repository. Here, you'll find various projects, ideas, and possibly some random musings. Let me introduce myself:
 
 - **Name:** Ranjini.u
 
